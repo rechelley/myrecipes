@@ -1,0 +1,61 @@
+body, button, .comment-text {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-weight: bold;
+  color: #A69C0F;
+}
+
+h2, h3, h5, p, a, label, button {
+  color: #81878a;
+}
+
+h4 {
+  color: #BF303C;
+}
+
+h6 {
+  color: #81878a;
+  font-weight: bold;
+}
+
+.colored-background {
+  background-color: #f8fbf8;
+}
+
+.white-background {
+  background-color: #ffffff;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #BF303C;
+}
+
+#recipe-page {
+  margin: 80px;
+  text-align: justify;
+  border-width: 10px;
+  color: #BACDD9;
+}
+
+
+.backhome {
+  margin: 80px 50px 50px 0;
+  background-color: #BACDD9;
+  border: none;
+}
+
+.backhome:hover {
+  background-color: #BF303C;
+}
+
+.recipe-page-imagelist {
+  padding-top: 40px;
+
+}
+.recipe-page-image {
+  width:300px;
+}
